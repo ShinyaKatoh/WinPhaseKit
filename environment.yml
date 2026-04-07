@@ -1,4 +1,4 @@
-name: winphasekit
+name: torch3
 channels:
   - anaconda
   - pytorch
